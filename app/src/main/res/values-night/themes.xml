@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Night Theme -->
+    <style name="Base.Theme.CalculatorApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Background and Surface Colors -->
+        <item name="android:colorBackground">#121212</item> <!-- Very dark grey -->
+        <item name="android:textColorPrimary">#FFFFFF</item> <!-- Bright white -->
+        <item name="android:textColorSecondary">#B0B0B0</item> <!-- Soft grey -->
+
+        <!-- Primary colors for buttons or highlights -->
+        <item name="colorPrimary">#2C2C2C</item> <!-- Dark button background -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- Text on buttons -->
+
+        <!-- Status bar & navigation bar -->
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+    </style>
+</resources>
