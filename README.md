@@ -1,3 +1,4 @@
+![WhatsApp Image 2026-01-18 at 06 52 02](https://github.com/user-attachments/assets/3da52aa1-1d31-4fe4-9036-1cb6d1778a48)
 🧮 GoodLookCalC – A Modern Android Calculator App
 
 GoodLookCalC is a clean, modern, and elegant Android calculator app built completely from scratch.
