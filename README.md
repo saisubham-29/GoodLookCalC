@@ -51,7 +51,9 @@ Inspired by modern calculator apps with a focus on clarity and usability.
 
 (Add screenshots here after pushing images to GitHub)
 
-📂 Project Structure
+## 📂 Project Structure
+
+```
 GoodLookCalC/
 │── app/
 │   ├── java/
@@ -62,6 +64,8 @@ GoodLookCalC/
 │   │   ├── drawable/
 │   │   └── values/
 │── README.md
+```
+
 
 🎯 What I Learned
 
