@@ -1,60 +1,67 @@
-![WhatsApp Image 2026-01-18 at 06 52 02](https://github.com/user-attachments/assets/3da52aa1-1d31-4fe4-9036-1cb6d1778a48)
-🧮 GoodLookCalC – A Modern Android Calculator App
+<!-- HEADER IMAGE -->
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/3da52aa1-1d31-4fe4-9036-1cb6d1778a48"
+    alt="GoodLookCalC UI Preview"
+    width="300"
+    style="border-radius:12px; box-shadow:0 8px 24px rgba(0,0,0,0.25);"
+  />
+</p>
 
-GoodLookCalC is a clean, modern, and elegant Android calculator app built completely from scratch.
-It combines minimal UI design with accurate calculation logic, focusing on both looks and performance — hence the name GoodLookCalC.
+<!-- TITLE -->
+<h1 align="center" style="margin-top:12px;">🧮 GoodLookCalC – A Modern Android Calculator App</h1>
 
-A perfect beginner-to-intermediate Android project showcasing UI design, logic building, and clean code practices.
+<!-- DESCRIPTION -->
+<p align="center" style="max-width:700px; margin:auto; font-size:16px; line-height:1.6;">
+  <strong>GoodLookCalC</strong> is a clean, modern, and elegant Android calculator app built completely from scratch.
+  It combines <b>minimal UI design</b> with <b>accurate calculation logic</b>, focusing on both looks and performance — hence the name <b>GoodLookCalC</b>.
+</p>
 
-✨ Features
+<p align="center" style="font-size:15px; opacity:0.9;">
+  A perfect beginner-to-intermediate Android project showcasing UI design, logic building, and clean code practices.
+</p>
 
-🎨 Modern Circular Button Design
+<hr/>
 
-⚡ Fast & Accurate Calculations
+<!-- FEATURES -->
+<h2>✨ Features</h2>
+<ul>
+  <li>🎨 Modern Circular Button Design</li>
+  <li>⚡ Fast & Accurate Calculations</li>
+  <li>➕ Supports essential arithmetic operations:
+    <ul>
+      <li>Addition (+)</li>
+      <li>Subtraction (−)</li>
+      <li>Multiplication (×)</li>
+      <li>Division (÷)</li>
+      <li>Percentage (%)</li>
+    </ul>
+  </li>
+  <li>🔄 AC (All Clear) functionality</li>
+  <li>🔁 Sign Toggle (+ / −)</li>
+  <li>📱 Responsive UI for different screen sizes</li>
+  <li>🧠 Handles edge cases like division by zero</li>
+  <li>🚫 No third-party calculator libraries used</li>
+</ul>
 
-➕ Supports essential arithmetic operations:
+<hr/>
 
-Addition (+)
+<!-- TECH STACK -->
+<h2>🛠️ Tech Stack</h2>
+<ul>
+  <li><b>Platform:</b> Android</li>
+  <li><b>Language:</b> Java / Kotlin</li>
+  <li><b>UI:</b> XML Layouts</li>
+  <li><b>Architecture:</b> Activity-based</li>
+  <li><b>Build System:</b> Gradle</li>
+</ul>
 
-Subtraction (−)
+<hr/>
 
-Multiplication (×)
+<!-- PROJECT STRUCTURE -->
+<h2>📂 Project Structure</h2>
 
-Division (÷)
-
-Percentage (%)
-
-🔄 AC (All Clear) functionality
-
-🔁 Sign Toggle (+ / −)
-
-📱 Responsive UI for different screen sizes
-
-🧠 Handles edge cases like division by zero
-
-🚫 No third-party calculator libraries used
-
-🛠️ Tech Stack
-
-Platform: Android
-
-Language: Java / Kotlin
-
-UI: XML Layouts
-
-Architecture: Activity-based
-
-Build System: Gradle
-
-📸 UI Preview
-
-Inspired by modern calculator apps with a focus on clarity and usability.
-
-(Add screenshots here after pushing images to GitHub)
-
-## 📂 Project Structure
-
-```
+<pre style="background:#0d1117; color:#c9d1d9; padding:16px; border-radius:10px; overflow-x:auto;">
 GoodLookCalC/
 │── app/
 │   ├── java/
@@ -65,55 +72,60 @@ GoodLookCalC/
 │   │   ├── drawable/
 │   │   └── values/
 │── README.md
-```
+</pre>
 
+<hr/>
 
-🎯 What I Learned
+<!-- LEARNINGS -->
+<h2>🎯 What I Learned</h2>
+<ul>
+  <li>Android UI/UX fundamentals</li>
+  <li>Handling onClick events efficiently</li>
+  <li>String-to-number parsing</li>
+  <li>Floating-point precision handling</li>
+  <li>Writing readable, maintainable Android code</li>
+  <li>Creating apps from scratch instead of templates</li>
+</ul>
 
-Building GoodLookCalC helped me improve:
+<hr/>
 
-Android UI/UX fundamentals
+<!-- SEO -->
+<h2>🔍 SEO Keywords</h2>
+<p style="line-height:1.8;">
+  GoodLookCalC, Android calculator app, Modern Android calculator UI, Calculator app using Java,
+  Calculator app using XML, Android beginner projects, Custom calculator Android app,
+  Android UI design example
+</p>
 
-Handling onClick events efficiently
+<hr/>
 
-String-to-number parsing
+<!-- AUTHOR -->
+<h2>🧑‍💻 Author</h2>
+<p>
+  <b>Sai Subham</b><br/>
+  BTech CSE | Android Developer | Curious Builder
+</p>
 
-Floating-point precision handling
+<p>
+  If you find <b>GoodLookCalC</b> useful, consider giving it a ⭐ — it motivates indie developers!
+</p>
 
-Writing readable, maintainable Android code
+<hr/>
 
-Creating apps from scratch instead of templates
+<!-- LICENSE -->
+<h2>📜 License</h2>
+<p>
+  This project is <b>open-source</b> and intended for <b>learning and personal use</b>.
+</p>
 
-🔍 SEO Keywords (GitHub & Google Friendly)
+<hr/>
 
-GoodLookCalC
-Android calculator app
-Modern Android calculator UI
-Calculator app using Java
-Calculator app using XML
-Android beginner projects
-Custom calculator Android app
-Android UI design example
-
-🧑‍💻 Author
-
-Sai Subham
-BTech CSE | Android Developer | Curious Builder
-
-If you find GoodLookCalC useful, consider giving it a ⭐ — it motivates indie developers!
-
-📜 License
-
-This project is open-source and intended for learning and personal use.
-
-💡 Future Enhancements (Planned)
-
-Scientific calculator mode
-
-Calculation history
-
-Light / Dark theme toggle
-
-Haptic feedback
-
-Material You (Dynamic Colors)
+<!-- FUTURE -->
+<h2>💡 Future Enhancements</h2>
+<ul>
+  <li>Scientific calculator mode</li>
+  <li>Calculation history</li>
+  <li>Light / Dark theme toggle</li>
+  <li>Haptic feedback</li>
+  <li>Material You (Dynamic Colors)</li>
+</ul>
